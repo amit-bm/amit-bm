@@ -1,4 +1,26 @@
+<img align="right" alt="Cat deleting all files to fix bug" width="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
+
+<!--<img align="right" alt="Orange cat coding happily" width="400" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/200w.webp">-->
+
 ### Hi there 👋
+#### I'm Amit and it's great to have you here.
+I'm a software developer who's passionate about creating meaningful and efficient code. Currently, I'm on the lookout for new opportunities as a Software Engineer, where I can contribute my skills and grow alongside an awesome team.
+
+
+### 🛠️ Technologies
++ .NET
++ C#
++ Python
++ Azure
++ K8s
++ ArcGIS
+  
+
+### 📬 Connect with Me
+
+If you're interested in collaborating or just want to say hi, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amit-b-m/).
+
+Thanks for stopping by!
 
 <!--
 **amit-bm/amit-bm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
